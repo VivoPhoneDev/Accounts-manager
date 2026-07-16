@@ -1,17 +1,5 @@
-# Personal account data
 accounts.json
-
-# Python cache
 __pycache__/
 *.py[cod]
-
-# Virtual environments
 .venv/
 venv/
-env/
-
-# VS Code settings (если не хочешь синхронизировать свои настройки)
-.vscode/
-
-# macOS
-.DS_Store
