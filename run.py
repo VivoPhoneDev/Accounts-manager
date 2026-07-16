@@ -35,7 +35,7 @@ while act != 4:
                 break
 
         else:
-            print("Ты че дебил? Такое незя")
+            print("Такое незя")
         
 
     except ValueError:
